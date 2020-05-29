@@ -2,7 +2,7 @@
 
 I've created this repository for my own reference and practice purposes. If you come across this repository, feel free to explore, scrutinize and comment on my solutions, or just help yourself pondering about my code.
 
-I like a lot of languages (I'm language agnostic), but I prefer to write code in C++ (mostly) & Python (sometimes).
+I like a lot of languages (I'm language agnostic), but I prefer to write code in C++ & Python.
 
 ## Resources
 
