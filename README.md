@@ -44,3 +44,5 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   1. Sum of N natural numbers: [Solution](https://gist.github.com/Ch-sriram/ead1c0b832960905fba68998a3449563)
   2. Given an integer N, return the N<sup>th</sup> integer in the Fibonacci Sequence: [Naive Solution O(2<sup>N</sup>)](https://gist.github.com/Ch-sriram/f62ed21b92f3d8cc49f3adbe27847b03)
   3. Given N, return N! ["N factorial"]: [Solution](https://gist.github.com/Ch-sriram/38107caae8ddecc6e29559cfc122a0eb)
+  4. Towers of Hanoi/Brahma/Lucas: [Solution](https://gist.github.com/Ch-sriram/5eec7685b6b7112c982338979a936e2b)
+  5. Given N pairs of parentheses, write a function to generate all combinations of well-formed valid parentheses: [Solution](https://gist.github.com/Ch-sriram/eba27b5b123faf2537efd36a3ef6688e)
