@@ -46,3 +46,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   3. Given N, return N! ["N factorial"]: [Solution](https://gist.github.com/Ch-sriram/38107caae8ddecc6e29559cfc122a0eb)
   4. Towers of Hanoi/Brahma/Lucas: [Solution](https://gist.github.com/Ch-sriram/5eec7685b6b7112c982338979a936e2b)
   5. Given N pairs of parentheses, write a function to generate all combinations of well-formed valid parentheses: [Solution](https://gist.github.com/Ch-sriram/eba27b5b123faf2537efd36a3ef6688e)
+
+- **Sorting**
+  1. Bubble Sort Recursive Algorithm O(N<sup>2</sup>): [Solution](https://gist.github.com/Ch-sriram/be2581094c275d8191f89d565939ad9f)
+  2. Insertion Sort Recursive Algorithm O(N<sup>2</sup>): [Solution](https://gist.github.com/Ch-sriram/41ab62e990bb7d5b7990f1734e9d741f)
+  3. Selection Sort Recursive Algorithm O(N<sup>2</sup>): [Solution](https://gist.github.com/Ch-sriram/c2ccd12e714379c17b27c360baaeab67)
