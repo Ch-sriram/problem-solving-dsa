@@ -51,3 +51,5 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   1. Bubble Sort Recursive Algorithm O(N<sup>2</sup>): [Solution](https://gist.github.com/Ch-sriram/be2581094c275d8191f89d565939ad9f)
   2. Insertion Sort Recursive Algorithm O(N<sup>2</sup>): [Solution](https://gist.github.com/Ch-sriram/41ab62e990bb7d5b7990f1734e9d741f)
   3. Selection Sort Recursive Algorithm O(N<sup>2</sup>): [Solution](https://gist.github.com/Ch-sriram/c2ccd12e714379c17b27c360baaeab67)
+  4. Find the two repeating elements in a given array: [Solution](https://gist.github.com/Ch-sriram/f4116e9b4aac7a861be8aa4b85302fc0)
+  5. Migratory Birds using Counting Sort [\O(N)\]: [Solution](https://gist.github.com/Ch-sriram/0352873393a6ac69f7df077679b2bfb3)
