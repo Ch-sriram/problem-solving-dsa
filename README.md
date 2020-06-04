@@ -52,4 +52,10 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   2. Insertion Sort Recursive Algorithm O(N<sup>2</sup>): [Solution](https://gist.github.com/Ch-sriram/41ab62e990bb7d5b7990f1734e9d741f)
   3. Selection Sort Recursive Algorithm O(N<sup>2</sup>): [Solution](https://gist.github.com/Ch-sriram/c2ccd12e714379c17b27c360baaeab67)
   4. Find the two repeating elements in a given array: [Solution](https://gist.github.com/Ch-sriram/f4116e9b4aac7a861be8aa4b85302fc0)
-  5. Migratory Birds using Counting Sort [\O(N)\]: [Solution](https://gist.github.com/Ch-sriram/0352873393a6ac69f7df077679b2bfb3)
+  5. Migratory Birds using Counting Sort \[O(N)\]: [Solution](https://gist.github.com/Ch-sriram/0352873393a6ac69f7df077679b2bfb3)
+  6. Sum of Pairs: Given an array of integers and a number K, check if there exist a pair of indices i,j s.t. a[i] + a[j] = K and i!=j: [Solution](https://gist.github.com/Ch-sriram/d562c162c1365e253e2612e6281d1f7f)
+  7. Largest Concatenated Number: [Solution](https://gist.github.com/Ch-sriram/a05ab29757205a509f22a1f28c030d75)
+  8. Power Game: [Solution](https://gist.github.com/Ch-sriram/737842682fe15f91a3eb8a607e9d5f39)
+
+- **Hashing**
+  1. Two Sum \[Leetcode\]: [Solution](https://gist.github.com/Ch-sriram/ce2e2a2812084b86f4c611df741bd740)
