@@ -56,6 +56,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   6. Sum of Pairs: Given an array of integers and a number K, check if there exist a pair of indices i,j s.t. a[i] + a[j] = K and i!=j: [Solution](https://gist.github.com/Ch-sriram/d562c162c1365e253e2612e6281d1f7f)
   7. Largest Concatenated Number: [Solution](https://gist.github.com/Ch-sriram/a05ab29757205a509f22a1f28c030d75)
   8. Power Game: [Solution](https://gist.github.com/Ch-sriram/737842682fe15f91a3eb8a607e9d5f39)
+  9. Sort the Half Sorted: [Solution](https://gist.github.com/Ch-sriram/ec720070417f82ce70875e23eaf36d54)
+  10. Merge Sort Implementation O(N * log(N)): [Solution](https://gist.github.com/Ch-sriram/7696f1e4140ba4936cbf42cac2b286dd)
 
 - **Hashing**
   1. Two Sum \[Leetcode\]: [Solution](https://gist.github.com/Ch-sriram/ce2e2a2812084b86f4c611df741bd740)
