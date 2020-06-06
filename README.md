@@ -58,6 +58,9 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   8. Power Game: [Solution](https://gist.github.com/Ch-sriram/737842682fe15f91a3eb8a607e9d5f39)
   9. Sort the Half Sorted: [Solution](https://gist.github.com/Ch-sriram/ec720070417f82ce70875e23eaf36d54)
   10. Merge Sort Implementation O(N * log(N)): [Solution](https://gist.github.com/Ch-sriram/7696f1e4140ba4936cbf42cac2b286dd)
+  11. Inversion Count of an Array O(N * log(N)): [Solution](https://gist.github.com/Ch-sriram/9a66f3ca68ad5ad1ccb8da2e6cfd9174)
+  12. Sort of an array of 0s, 1s and 2s \[Used Count Sort\]: [Solution](https://gist.github.com/Ch-sriram/cb1e7aad2a50e46744498153e3f5281d)
+  13. Sort element of an element by frequency (a.k.a Frequency Sort): [Solution](https://gist.github.com/Ch-sriram/836d9a0519c5be44e3f20b9cefba084a)
 
 - **Hashing**
   1. Two Sum \[Leetcode\]: [Solution](https://gist.github.com/Ch-sriram/ce2e2a2812084b86f4c611df741bd740)
