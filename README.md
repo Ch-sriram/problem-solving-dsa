@@ -66,3 +66,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   1. Two Sum \[Leetcode\]: [Solution](https://gist.github.com/Ch-sriram/ce2e2a2812084b86f4c611df741bd740)
   2. Count distinct pairs with difference k, where (A[i]-A[j] = k) and (i != j): [Solution](https://gist.github.com/Ch-sriram/444657575747b39e983afea7f541d45d)
   3. Triplet Sum in Array: [Accepted Solution &mdash; Time: O(N<sup>2</sup>) & Space: O(N)](https://gist.github.com/Ch-sriram/2f9a44494821da9536b3011865555e91) & [Unaccepted Solution &mdash; Time: O(2N + N<sup>2</sup>) & Space: O(N)](https://gist.github.com/Ch-sriram/6e79f659fb6c3cded04048796b05dee3)
+
+- **Searching**
+  1. Searching for a number in a list - Linear Search \[O(N)\]: [Solution](https://gist.github.com/Ch-sriram/696ccba97e4b4759924001ee6f52032c)
+  2. Searching an element in a sorted array - Recursive Binary Search [O(N + log(N))]: [Solution](https://gist.github.com/Ch-sriram/3421b62411f95755276565c010a7f713)
+  3. Cube root of a number using recursive binary search \[O(log(N))\]: [Solution](https://gist.github.com/Ch-sriram/8edf469e233997a34826db9ac77f40ee)
