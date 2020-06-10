@@ -59,7 +59,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   9. Sort the Half Sorted: [Solution](https://gist.github.com/Ch-sriram/ec720070417f82ce70875e23eaf36d54)
   10. Merge Sort Implementation O(N * log(N)): [Solution](https://gist.github.com/Ch-sriram/7696f1e4140ba4936cbf42cac2b286dd)
   11. Inversion Count of an Array O(N * log(N)): [Solution](https://gist.github.com/Ch-sriram/9a66f3ca68ad5ad1ccb8da2e6cfd9174)
-  12. Sort of an array of 0s, 1s and 2s \[Used Count Sort\]: [Solution](https://gist.github.com/Ch-sriram/cb1e7aad2a50e46744498153e3f5281d)
+  12. Sort an array of 0s, 1s and 2s \[Used Count Sort\]: [Solution](https://gist.github.com/Ch-sriram/cb1e7aad2a50e46744498153e3f5281d)
   13. Sort element of an element by frequency (a.k.a Frequency Sort): [Solution](https://gist.github.com/Ch-sriram/836d9a0519c5be44e3f20b9cefba084a)
 
 - **Hashing**
@@ -70,4 +70,5 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 - **Searching**
   1. Searching for a number in a list - Linear Search \[O(N)\]: [Solution](https://gist.github.com/Ch-sriram/696ccba97e4b4759924001ee6f52032c)
   2. Searching an element in a sorted array - Recursive Binary Search [O(N + log(N))]: [Solution](https://gist.github.com/Ch-sriram/3421b62411f95755276565c010a7f713)
-  3. Cube root of a number using recursive binary search \[O(log(N))\]: [Solution](https://gist.github.com/Ch-sriram/8edf469e233997a34826db9ac77f40ee)
+  3. Cube root of a number using recursive binary search \[O(log(N))\]: [Solution for smaller range](https://gist.github.com/Ch-sriram/8edf469e233997a34826db9ac77f40ee) & [Solution for larger range: -10<sup>18</sup> to 10<sup>18</sup>](https://gist.github.com/Ch-sriram/5030489c47dfd83570639fa0b26ff599)
+  4. Find floor of given X in a sorted array of size N [Binary Search - O(log(N))]:[Solution in C++](https://gist.github.com/Ch-sriram/cbf75b22db2892a7a8c0e56c5c53c2c8) & [Solution in Python](https://gist.github.com/Ch-sriram/ca82b16ea940ee5ab0365466a29c2f78)
