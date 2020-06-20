@@ -4,6 +4,8 @@ I've created this repository for my own reference and practice purposes. If you 
 
 I like a lot of languages (I'm language agnostic), but I prefer to write code in C++ & rarely in Java & Python.
 
+***NOTE: The code is in the form of GitHub Gists and therefore there is no code inside the repo.***
+
 ## Resources
 
 - **General Resources**
