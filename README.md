@@ -77,3 +77,4 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   5. Find the element that appears once in sorted array [Binary Search - O(log(N))]: [Solution](https://gist.github.com/Ch-sriram/886559adf7493ecd872f69642b3ac2c4)
   6. Number of occurrences - given an array and x, find the frequency of x: [Solution in C++](https://gist.github.com/Ch-sriram/23e2701be67eb8c23759b41a1284595d) & [Solution in Python](https://gist.github.com/Ch-sriram/fcef15346076c77db874e0dba7b3d487)
   7. Painters Partition Problem (aka *Allotting Books to Students* Problem) \[Binary Search - O(N*log(Sum(A[0:N-1])))\]: [Solution in C++](https://gist.github.com/Ch-sriram/163cf6a98d07a5ea077cafe9bb12e6e5) & [Solution in Java](https://gist.github.com/Ch-sriram/3e49d229ada23d924163d16d3e3c8953)
+  8. Aggressive Cows (SPOJ Problem) [Binary Search - O(2 * (N * log(N)))]: [Solution in Java](https://gist.github.com/Ch-sriram/f10e3db33cc553328f82ce1f896b0e50)
