@@ -41,6 +41,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   1. Given an integer N, find the number of trailing zeroes in N! \["N factorial"\]: [Solution](https://gist.github.com/Ch-sriram/398355f7ab6ee6ef52c49cab554365ef)
   2. Given two integers A and B, find their GCD & LCM: [Solution](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6) 
   3. Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number: [Solution](https://gist.github.com/Ch-sriram/ef37fc6877a6042f5c099edd27af5df2)
+  4. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
+  5. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
 
 - **Recursion**
   1. Sum of N natural numbers: [Solution](https://gist.github.com/Ch-sriram/ead1c0b832960905fba68998a3449563)
@@ -78,3 +80,6 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   6. Number of occurrences - given an array and x, find the frequency of x: [Solution in C++](https://gist.github.com/Ch-sriram/23e2701be67eb8c23759b41a1284595d) & [Solution in Python](https://gist.github.com/Ch-sriram/fcef15346076c77db874e0dba7b3d487)
   7. Painters Partition Problem (aka *Allotting Books to Students* Problem) \[Binary Search - O(N*log(Sum(A[0:N-1])))\]: [Solution in C++](https://gist.github.com/Ch-sriram/163cf6a98d07a5ea077cafe9bb12e6e5) & [Solution in Java](https://gist.github.com/Ch-sriram/3e49d229ada23d924163d16d3e3c8953)
   8. Aggressive Cows (SPOJ Problem) [Binary Search - O(2 * (N * log(N)))]: [Solution in Java](https://gist.github.com/Ch-sriram/f10e3db33cc553328f82ce1f896b0e50)
+
+- **Heaps**
+  1. Save Konoha (CodeChef: SAVKONO) \[O(N * log(N))\] \[Uses Max Heap\]: [Solution in C++](https://gist.github.com/Ch-sriram/ec5a41b051354ce7e17a8807f85a8a4d)
