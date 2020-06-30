@@ -83,3 +83,9 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 
 - **Heaps**
   1. Save Konoha (CodeChef: SAVKONO) \[O(N * log(N))\] \[Uses Max Heap\]: [Solution in C++](https://gist.github.com/Ch-sriram/ec5a41b051354ce7e17a8807f85a8a4d)
+
+- **Trees**
+  1. Height of a Binary Search Tree [TC: O(N) where 'N' is the number of nodes]: [Solution in C++](https://gist.github.com/Ch-sriram/1f328b53a823c537367f3220514eacf8)
+  2. Depth of each node in the Binary Search Tree [TC: O(N) where 'N' is number of nodes in BST]: [Solution in C++](https://gist.github.com/Ch-sriram/1f1487f89777a2e4ce6f65d124c14b37)
+  3. Level Order Traversal of BST (or Binary Tree) [TC: O(N) where 'N' is number of nodes && SC: O(N) where 'N' is auxiliary queue size]: [Solution in C++](https://gist.github.com/Ch-sriram/84125d9da959c0b9b503d06fb1323b95)
+  4. Zia-Zag Level Order Traversal of BST/Binary Tree [TC: O(N)]: [Solution in C++](https://gist.github.com/Ch-sriram/5bf53ee6d476317f86c42e88bf0c1c4d) & [Solution in Python](https://gist.github.com/Ch-sriram/d5fe21eaf4c1be936bda115f8832f20f)
