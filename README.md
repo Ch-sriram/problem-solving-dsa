@@ -91,7 +91,9 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   2. Depth of each node in the Binary Search Tree [TC: O(N) where 'N' is number of nodes in BST]: [Solution in C++](https://gist.github.com/Ch-sriram/1f1487f89777a2e4ce6f65d124c14b37)
   3. Level Order Traversal of BST (or Binary Tree) [TC: O(N) where 'N' is number of nodes && SC: O(N) where 'N' is auxiliary queue size]: [Solution in C++](https://gist.github.com/Ch-sriram/84125d9da959c0b9b503d06fb1323b95)
   4. Zig-Zag Level Order Traversal of BST/Binary Tree [TC: O(N)]: [Solution in C++](https://gist.github.com/Ch-sriram/5bf53ee6d476317f86c42e88bf0c1c4d) & [Solution in Python](https://gist.github.com/Ch-sriram/d5fe21eaf4c1be936bda115f8832f20f)
-  5. Bottom-Up (or Reverse) Level Order Traversal of BST/Binary-Tree: [Time: O(2N) & Space O(N) for HashMap (Java) Solution &mdash; AC on GFG](https://gist.github.com/Ch-sriram/fec8a1aa5b02d7c04858e5dbf10c0f76) & [Time: O(N) & Space: O(N) for storing individual depths in each node (Java) Solution](https://gist.github.com/Ch-sriram/1bd93d3ac973e90b236ccfe1e0c7bf39)
+  5. Bottom-Up (or Reverse) Level Order Traversal of BST/Binary-Tree: 
+     1. Time: O(2N) & Space O(N) for HashMap &mdash; Accepted on GFG: [Solution in Java](https://gist.github.com/Ch-sriram/fec8a1aa5b02d7c04858e5dbf10c0f76)
+     2. Time: O(N) & Space: O(N) for storing individual depths in each node: [Solution in Java](https://gist.github.com/Ch-sriram/1bd93d3ac973e90b236ccfe1e0c7bf39)
   6. Diameter of a BST/Binary-Tree
      1. O(N*H) &mdash; Unaccepted on GFG: [Solution in C++](https://gist.github.com/Ch-sriram/aa67d6b55c11435626f7b38c542c107d) & [Solution in Java](https://gist.github.com/Ch-sriram/58ae2f8c20c65560aa7737e5a5f4e5f4)
      2. O(N) &mdash; Accepted on GFG: [Solution in C++](https://gist.github.com/Ch-sriram/429f27d9428a6dd62563b977ddbfaead) & [Solution in Java](https://gist.github.com/Ch-sriram/f69d1168ad314fc4d2753a114336881e)
