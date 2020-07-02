@@ -2,7 +2,7 @@
 
 I've created this repository for my own reference and practice purposes. If you come across this repository, feel free to explore, scrutinize and comment on my solutions, or just help yourself pondering about my code.
 
-I like a lot of languages (I'm language agnostic), but I prefer to write code in C++ & rarely in Java & Python.
+I like a lot of languages (I'm language agnostic), but I prefer to write code in C/C++ & sometimes in Java, Python & JavaScript.
 
 ***NOTE: The code is in the form of GitHub Gists and therefore there is no code inside the repo.***
 
@@ -36,7 +36,6 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   10. Given integers A & N, compute A<sup>N</sup>: [Naive Solution: O(N)](https://gist.github.com/Ch-sriram/5359bea35cce5a2d1265547a59ccb81c) & [Optimal Solution (fast-exponentiation): O(log N)](https://gist.github.com/Ch-sriram/0678934cc6bd8747f95d5e32ba50b4cf)
   11. Given an array of unique integer elements, print all the subsets of the given array in lexicographical order \[O(2<sup>N</sup>)\] :[Solution](https://gist.github.com/Ch-sriram/133e55e269420125a5d2c99aee089143)
 
-
 - **Math**
   1. Given an integer N, find the number of trailing zeroes in N! \["N factorial"\]: [Solution](https://gist.github.com/Ch-sriram/398355f7ab6ee6ef52c49cab554365ef)
   2. Given two integers A and B, find their GCD & LCM: [Solution](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6) 
@@ -64,7 +63,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   10. Merge Sort Implementation O(N * log(N)): [Solution](https://gist.github.com/Ch-sriram/7696f1e4140ba4936cbf42cac2b286dd)
   11. Inversion Count of an Array O(N * log(N)): [Solution](https://gist.github.com/Ch-sriram/9a66f3ca68ad5ad1ccb8da2e6cfd9174)
   12. Sort an array of 0s, 1s and 2s \[Used Count Sort\]: [Solution](https://gist.github.com/Ch-sriram/cb1e7aad2a50e46744498153e3f5281d)
-  13. Sort element of an element by frequency (a.k.a Frequency Sort): [Solution](https://gist.github.com/Ch-sriram/836d9a0519c5be44e3f20b9cefba084a)
+  13. Sort elements by frequency (a.k.a Frequency Sort): [Solution](https://gist.github.com/Ch-sriram/836d9a0519c5be44e3f20b9cefba084a)
 
 - **Hashing**
   1. Two Sum \[Leetcode\]: [Solution](https://gist.github.com/Ch-sriram/ce2e2a2812084b86f4c611df741bd740)
@@ -84,6 +83,9 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 - **Heaps**
   1. Save Konoha (CodeChef: SAVKONO) \[O(N * log(N))\] \[Uses Max Heap\]: [Solution in C++](https://gist.github.com/Ch-sriram/ec5a41b051354ce7e17a8807f85a8a4d)
 
+- **Stacks**
+  1. Validate Parentheses/Brackets/Braces (ZESSTA 3<sup>rd</sup> round Question 2): [Solution in JavaScript](https://gist.github.com/Ch-sriram/ff327fa79d7b103434bb5b1ba6702d93)
+
 - **Trees**
   1. Height of a Binary Search Tree [TC: O(N) where 'N' is the number of nodes]: [Solution in C++](https://gist.github.com/Ch-sriram/1f328b53a823c537367f3220514eacf8)
   2. Depth of each node in the Binary Search Tree [TC: O(N) where 'N' is number of nodes in BST]: [Solution in C++](https://gist.github.com/Ch-sriram/1f1487f89777a2e4ce6f65d124c14b37)
@@ -91,3 +93,6 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   4. Zig-Zag Level Order Traversal of BST/Binary Tree [TC: O(N)]: [Solution in C++](https://gist.github.com/Ch-sriram/5bf53ee6d476317f86c42e88bf0c1c4d) & [Solution in Python](https://gist.github.com/Ch-sriram/d5fe21eaf4c1be936bda115f8832f20f)
   5. Bottom-Up (or Reverse) Level Order Traversal of BST/Binary-Tree: [Time: O(2N) & Space O(N) for HashMap (Java) Solution &mdash; AC on GFG](https://gist.github.com/Ch-sriram/fec8a1aa5b02d7c04858e5dbf10c0f76) & [Time: O(N) & Space: O(N) for storing individual depths in each node (Java) Solution](https://gist.github.com/Ch-sriram/1bd93d3ac973e90b236ccfe1e0c7bf39)
   6. Diameter of a BST/Binary-Tree: [O(N*H) &mdash; Unaccepted Solution (C++) on GFG](https://gist.github.com/Ch-sriram/aa67d6b55c11435626f7b38c542c107d), [O(N*H) &mdash; Unaccepted Solution (Java) on GFG](https://gist.github.com/Ch-sriram/58ae2f8c20c65560aa7737e5a5f4e5f4), [O(N) &mdash; Accepted Solution (C++) on GFG](https://gist.github.com/Ch-sriram/429f27d9428a6dd62563b977ddbfaead) & [O(N) &mdash; Accepted Solution (Java) on GFG](https://gist.github.com/Ch-sriram/f69d1168ad314fc4d2753a114336881e)
+
+- **Mixed Bag**
+  1. Sort a list of items wrt the frequency of each item (ZESSTA 3<sup>rd</sup> round Question 1) &mdash Hashing + Sorting: [Solution in JavaScript](https://gist.github.com/Ch-sriram/ec21a892528f3336e1db0ab37b8d0b93)
