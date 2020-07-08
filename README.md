@@ -84,7 +84,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   1. Save Konoha (CodeChef: SAVKONO) \[O(N * log(N))\] \[Uses Max Heap\]: [Solution in C++](https://gist.github.com/Ch-sriram/ec5a41b051354ce7e17a8807f85a8a4d)
 
 - **Stacks**
-  1. Validate Parentheses/Brackets/Braces (ZESSTA 3<sup>rd</sup> round Question 2): [Solution in JavaScript](https://gist.github.com/Ch-sriram/ff327fa79d7b103434bb5b1ba6702d93)
+  1. Parenthesis Checker (uses stack) [Time: O(N) for running through the string; Space: O(N) for stack] **(ZESSTA 3<sup>rd</sup> round Question 2)**: [Solution in C++](https://gist.github.com/Ch-sriram/c062888444948f01cd4e00ae256b7106) & [Solution in JavaScript](https://gist.github.com/Ch-sriram/ff327fa79d7b103434bb5b1ba6702d93)
 
 - **Trees**
   1. Height of a Binary Search Tree [TC: O(N) where 'N' is the number of nodes]: [Solution in C++](https://gist.github.com/Ch-sriram/1f328b53a823c537367f3220514eacf8)
@@ -100,3 +100,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 
 - **Mixed Bag**
   1. Sort a list of items wrt the frequency of each item (ZESSTA 3<sup>rd</sup> round Question 1) &mdash; Hashing + Sorting: [Solution in JavaScript](https://gist.github.com/Ch-sriram/ec21a892528f3336e1db0ab37b8d0b93)
+  2. Sub-array with given sum (using prefix-sum & sliding window) [Amortized Time: O(N) & Space: O(N+1) for prefix-sum array]: [Solution in C++](https://gist.github.com/Ch-sriram/c463b78d7f22b651c982dab3c36e575c)
+
+- **Dynamic Programming**
+  1. Largest Sum in a Contiguous Subarray (using Kadane's Algorithm) [Time: O(N) & Space: O(1)]: [Solution in C++](https://gist.github.com/Ch-sriram/17c6ba7685c58285d9ea760ecd10c713) & [Solution in Python](https://gist.github.com/Ch-sriram/cf45f5382f639b650e0b30ff50fb9eb0)
