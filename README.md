@@ -49,6 +49,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   3. Given N, return N! ["N factorial"]: [Solution in C++](https://gist.github.com/Ch-sriram/38107caae8ddecc6e29559cfc122a0eb)
   4. Towers of Hanoi/Brahma/Lucas: [Solution in C++](https://gist.github.com/Ch-sriram/5eec7685b6b7112c982338979a936e2b)
   5. Given N pairs of parentheses, write a function to generate all combinations of well-formed valid parentheses: [Solution in C++](https://gist.github.com/Ch-sriram/eba27b5b123faf2537efd36a3ef6688e)
+  6. Permutations of a given string: [Solution in C++](https://gist.github.com/Ch-sriram/cc0a04e0dedab01bbf93ee7333fd17ba)
 
 - **Sorting**
   1. Bubble Sort Recursive Algorithm O(N<sup>2</sup>): [Solution in C++](https://gist.github.com/Ch-sriram/be2581094c275d8191f89d565939ad9f)
@@ -62,7 +63,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   9. Sort the Half Sorted: [Solution in C++](https://gist.github.com/Ch-sriram/ec720070417f82ce70875e23eaf36d54)
   10. Merge Sort Implementation O(N * log(N)): [Solution in C++](https://gist.github.com/Ch-sriram/7696f1e4140ba4936cbf42cac2b286dd)
   11. Inversion Count of an Array O(N * log(N)): [Solution in C++](https://gist.github.com/Ch-sriram/9a66f3ca68ad5ad1ccb8da2e6cfd9174)
-  12. Sort an array of 0s, 1s and 2s \[Used Count Sort\]: [Solution in C++](https://gist.github.com/Ch-sriram/cb1e7aad2a50e46744498153e3f5281d)
+  12. Sort an array of 0s, 1s and 2s \[`Count Sort`\]: [Solution in C++](https://gist.github.com/Ch-sriram/cb1e7aad2a50e46744498153e3f5281d)
   13. Sort elements by frequency (a.k.a Frequency Sort): [Solution in C++](https://gist.github.com/Ch-sriram/836d9a0519c5be44e3f20b9cefba084a)
 
 - **Hashing**
@@ -71,27 +72,30 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   3. Triplet Sum in Array: [Accepted Solution in C++ &mdash; Time: O(N<sup>2</sup>) & Space: O(N)](https://gist.github.com/Ch-sriram/2f9a44494821da9536b3011865555e91) & [Unaccepted Solution in C++ &mdash; Time: O(2N + N<sup>2</sup>) & Space: O(N)](https://gist.github.com/Ch-sriram/6e79f659fb6c3cded04048796b05dee3)
 
 - **Searching**
-  1. Searching for a number in a list - Linear Search \[O(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/696ccba97e4b4759924001ee6f52032c)
-  2. Searching an element in a sorted array - Recursive Binary Search [O(N + log(N))]: [Solution in C++](https://gist.github.com/Ch-sriram/3421b62411f95755276565c010a7f713)
-  3. Cube root of a number using recursive binary search \[O(log(N))\]: [Solution in C++ for smaller range](https://gist.github.com/Ch-sriram/8edf469e233997a34826db9ac77f40ee) & [Solution in C++ for larger range: -10<sup>18</sup> to 10<sup>18</sup>](https://gist.github.com/Ch-sriram/5030489c47dfd83570639fa0b26ff599)
-  4. Find floor of given X in a sorted array of size N [Binary Search - O(log(N))]: [Solution in C++](https://gist.github.com/Ch-sriram/cbf75b22db2892a7a8c0e56c5c53c2c8) & [Solution in Python](https://gist.github.com/Ch-sriram/ca82b16ea940ee5ab0365466a29c2f78)
-  5. Find the element that appears once in sorted array [Binary Search - O(log(N))]: [Solution in C++](https://gist.github.com/Ch-sriram/886559adf7493ecd872f69642b3ac2c4)
-  6. Number of occurrences - given an array and x, find the frequency of x: [Solution in C++](https://gist.github.com/Ch-sriram/23e2701be67eb8c23759b41a1284595d) & [Solution in Python](https://gist.github.com/Ch-sriram/fcef15346076c77db874e0dba7b3d487)
-  7. Painters Partition Problem (aka *Allotting Books to Students* Problem) \[Binary Search - O(N*log(Sum(A[0:N-1])))\]: [Solution in C++](https://gist.github.com/Ch-sriram/163cf6a98d07a5ea077cafe9bb12e6e5) & [Solution in Java](https://gist.github.com/Ch-sriram/3e49d229ada23d924163d16d3e3c8953)
-  8. Aggressive Cows (SPOJ Problem) [Binary Search - O(2 * (N * log(N)))]: [Solution in Java](https://gist.github.com/Ch-sriram/f10e3db33cc553328f82ce1f896b0e50)
+  1. Searching for a number in a list - `Linear Search` \[O(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/696ccba97e4b4759924001ee6f52032c)
+  2. Searching an element in a sorted array - `Recursive Binary Search` [O(N + log(N))]: [Solution in C++](https://gist.github.com/Ch-sriram/3421b62411f95755276565c010a7f713)
+  3. Cube root of a number using `recursive binary search` \[O(log(N))\]: [Solution in C++ for smaller range](https://gist.github.com/Ch-sriram/8edf469e233997a34826db9ac77f40ee) & [Solution in C++ for larger range: -10<sup>18</sup> to 10<sup>18</sup>](https://gist.github.com/Ch-sriram/5030489c47dfd83570639fa0b26ff599)
+  4. Find floor of given X in a sorted array of size N [`Binary Search` - O(log(N))]: [Solution in C++](https://gist.github.com/Ch-sriram/cbf75b22db2892a7a8c0e56c5c53c2c8) & [Solution in Python](https://gist.github.com/Ch-sriram/ca82b16ea940ee5ab0365466a29c2f78)
+  5. Find the element that appears once in sorted array [`Binary Search` - O(log(N))]: [Solution in C++](https://gist.github.com/Ch-sriram/886559adf7493ecd872f69642b3ac2c4)
+  6. Number of occurrences - given an array and x, find the frequency of x [`Binary Search`]: [Solution in C++](https://gist.github.com/Ch-sriram/23e2701be67eb8c23759b41a1284595d) & [Solution in Python](https://gist.github.com/Ch-sriram/fcef15346076c77db874e0dba7b3d487)
+  7. Painters Partition Problem (aka *Allotting Books to Students* Problem) \[`Binary Search` - O(N*log(Sum(A[0:N-1])))\]: [Solution in C++](https://gist.github.com/Ch-sriram/163cf6a98d07a5ea077cafe9bb12e6e5) & [Solution in Java](https://gist.github.com/Ch-sriram/3e49d229ada23d924163d16d3e3c8953)
+  8. Aggressive Cows (SPOJ Problem) [`Binary Search` - O(2 * (N * log(N)))]: [Solution in Java](https://gist.github.com/Ch-sriram/f10e3db33cc553328f82ce1f896b0e50)
 
 - **Heaps**
   1. Save Konoha (CodeChef: SAVKONO) \[O(N * log(N))\] \[Uses Max Heap\]: [Solution in C++](https://gist.github.com/Ch-sriram/ec5a41b051354ce7e17a8807f85a8a4d)
 
 - **Stacks**
-  1. Parenthesis Checker (uses stack) [Time: O(N) for running through the string; Space: O(N) for stack] **(ZESSTA 3<sup>rd</sup> round Question 2)**: [Solution in C++](https://gist.github.com/Ch-sriram/c062888444948f01cd4e00ae256b7106) & [Solution in JavaScript](https://gist.github.com/Ch-sriram/ff327fa79d7b103434bb5b1ba6702d93)
+  1. Parenthesis Checker [Time: O(N) for running through the string; Space: O(N) for stack] **(ZESSTA 3<sup>rd</sup> round Question 2)**: [Solution in C++](https://gist.github.com/Ch-sriram/c062888444948f01cd4e00ae256b7106) & [Solution in JavaScript](https://gist.github.com/Ch-sriram/ff327fa79d7b103434bb5b1ba6702d93)
+
+- **Linked List**
+  1. Detect Loop in a Linked List: [Solution in C++](https://gist.github.com/Ch-sriram/dc5ccfaa0eedcc65410bcba03a2ddf96)
 
 - **Trees**
   1. Height of a Binary Search Tree [TC: O(N) where 'N' is the number of nodes]: [Solution in C++](https://gist.github.com/Ch-sriram/1f328b53a823c537367f3220514eacf8)
   2. Depth of each node in the Binary Search Tree [TC: O(N) where 'N' is number of nodes in BST]: [Solution in C++](https://gist.github.com/Ch-sriram/1f1487f89777a2e4ce6f65d124c14b37)
   3. Level Order Traversal of BST (or Binary Tree) [TC: O(N) where 'N' is number of nodes && SC: O(N) where 'N' is auxiliary queue size]: [Solution in C++](https://gist.github.com/Ch-sriram/84125d9da959c0b9b503d06fb1323b95)
   4. Zig-Zag Level Order Traversal of BST/Binary Tree [TC: O(N)]: [Solution in C++](https://gist.github.com/Ch-sriram/5bf53ee6d476317f86c42e88bf0c1c4d) & [Solution in Python](https://gist.github.com/Ch-sriram/d5fe21eaf4c1be936bda115f8832f20f)
-  5. Bottom-Up (or Reverse) Level Order Traversal of BST/Binary-Tree: 
+  5. Bottom-Up (or Reverse) Level Order Traversal of BST/Binary-Tree
      1. Time: O(2N) & Space O(N) for HashMap &mdash; Accepted on GFG: [Solution in Java](https://gist.github.com/Ch-sriram/fec8a1aa5b02d7c04858e5dbf10c0f76)
      2. Time: O(N) & Space: O(N) for storing individual depths in each node: [Solution in Java](https://gist.github.com/Ch-sriram/1bd93d3ac973e90b236ccfe1e0c7bf39)
   6. Diameter of a BST/Binary-Tree
@@ -99,8 +103,10 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
      2. O(N) &mdash; Accepted on GFG: [Solution in C++](https://gist.github.com/Ch-sriram/429f27d9428a6dd62563b977ddbfaead) & [Solution in Java](https://gist.github.com/Ch-sriram/f69d1168ad314fc4d2753a114336881e)
 
 - **Mixed Bag**
-  1. Sort a list of items wrt the frequency of each item (ZESSTA 3<sup>rd</sup> round Question 1) &mdash; Hashing + Sorting: [Solution in JavaScript](https://gist.github.com/Ch-sriram/ec21a892528f3336e1db0ab37b8d0b93)
-  2. Sub-array with given sum (using prefix-sum & sliding window) [Amortized Time: O(N) & Space: O(N+1) for prefix-sum array]: [Solution in C++](https://gist.github.com/Ch-sriram/c463b78d7f22b651c982dab3c36e575c)
+  1. Sort a list of items wrt the frequency of each item (ZESSTA 3<sup>rd</sup> round Question 1) &mdash; `Hashing` + `Sorting`: [Solution in JavaScript](https://gist.github.com/Ch-sriram/ec21a892528f3336e1db0ab37b8d0b93)
+  2. Sub-array with given sum (`prefix-sum`, `sliding window`) [Amortized Time: O(N) & Space: O(N+1) for prefix-sum array]: [Solution in C++](https://gist.github.com/Ch-sriram/c463b78d7f22b651c982dab3c36e575c)
+  3. Sort the substring (`string manipulation`, `counting sort`) [Time: O(N) & Space: O(26)]: [Solution in C++](https://gist.github.com/Ch-sriram/f074e7a5b5000c16a6cf4e7465f889d8/edit)
+  4. Reverse words in a given string - `Tokenizing String`: [Solution in C++](https://gist.github.com/Ch-sriram/a89ed9ce22471fb2e3ed6ab944a897ab)
 
 - **Dynamic Programming**
-  1. Largest Sum in a Contiguous Subarray (using Kadane's Algorithm) [Time: O(N) & Space: O(1)]: [Solution in C++](https://gist.github.com/Ch-sriram/17c6ba7685c58285d9ea760ecd10c713) & [Solution in Python](https://gist.github.com/Ch-sriram/cf45f5382f639b650e0b30ff50fb9eb0)
+  1. Largest Sum in a Contiguous Subarray (`Kadane's Algorithm`) [Time: O(N) & Space: O(1)]: [Solution in C++](https://gist.github.com/Ch-sriram/17c6ba7685c58285d9ea760ecd10c713) & [Solution in Python](https://gist.github.com/Ch-sriram/cf45f5382f639b650e0b30ff50fb9eb0)
