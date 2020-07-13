@@ -104,12 +104,15 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
      1. O(N*H) &mdash; Unaccepted on GFG: [Solution in C++](https://gist.github.com/Ch-sriram/aa67d6b55c11435626f7b38c542c107d) & [Solution in Java](https://gist.github.com/Ch-sriram/58ae2f8c20c65560aa7737e5a5f4e5f4)
      2. O(N) &mdash; Accepted on GFG: [Solution in C++](https://gist.github.com/Ch-sriram/429f27d9428a6dd62563b977ddbfaead) & [Solution in Java](https://gist.github.com/Ch-sriram/f69d1168ad314fc4d2753a114336881e)
 
-- **Mixed Bag**
+- **Mixed Bag & Strings**
   1. Sort a list of items wrt the frequency of each item (ZESSTA 3<sup>rd</sup> round Question 1) &mdash; `Hashing` + `Sorting`: [Solution in JavaScript](https://gist.github.com/Ch-sriram/ec21a892528f3336e1db0ab37b8d0b93)
   2. Sub-array with given sum (`prefix-sum`, `sliding window`) [Amortized Time: O(N) & Space: O(N+1) for prefix-sum array]: [Solution in C++](https://gist.github.com/Ch-sriram/c463b78d7f22b651c982dab3c36e575c)
   3. Sort the substring (`string manipulation`, `counting sort`) [Time: O(N) & Space: O(26)]: [Solution in C++](https://gist.github.com/Ch-sriram/f074e7a5b5000c16a6cf4e7465f889d8/edit)
   4. Reverse words in a given string - `Tokenizing String`: [Solution in C++](https://gist.github.com/Ch-sriram/a89ed9ce22471fb2e3ed6ab944a897ab)
   5. Find the number of words, vowels & consonants in the given string \[Time: O(N) & Space: O(1)\]: [Solution in C++](https://gist.github.com/Ch-sriram/e9e17cea3eae611cbf4ab1d211842596) & [Solution in Python](https://gist.github.com/Ch-sriram/8db991ac05d835f6d856136d8b707b45)
+  6. Check whether given two strings are anagrams of each other or not: [Solution in Python](https://gist.github.com/Ch-sriram/90838b4eacc9a1d9ea659fdac612f115)
+  7. Compute the modulo of a very large number (given as a string): [Solution in C++](https://gist.github.com/Ch-sriram/f3954867810975bddd5df4b81df81da3)
+  8. Count the occurrences of a substring in a string using Rabin Karp's String Matching Algorithm &mdash; \[Time: O(N) & Space: O(N) where N is length of the larger string\]: [Solution in C++](https://gist.github.com/Ch-sriram/30be96cbf78701f6f506a97f4985c935) & [Solution in Python](https://gist.github.com/Ch-sriram/2096e9e77277775c9afba4d75ee5ce14)
 
 - **Dynamic Programming**
   1. Largest Sum in a Contiguous Subarray (`Kadane's Algorithm`) [Time: O(N) & Space: O(1)]: [Solution in C++](https://gist.github.com/Ch-sriram/17c6ba7685c58285d9ea760ecd10c713) & [Solution in Python](https://gist.github.com/Ch-sriram/cf45f5382f639b650e0b30ff50fb9eb0)
