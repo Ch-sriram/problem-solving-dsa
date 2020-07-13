@@ -112,7 +112,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   5. Find the number of words, vowels & consonants in the given string \[Time: O(N) & Space: O(1)\]: [Solution in C++](https://gist.github.com/Ch-sriram/e9e17cea3eae611cbf4ab1d211842596) & [Solution in Python](https://gist.github.com/Ch-sriram/8db991ac05d835f6d856136d8b707b45)
   6. Check whether given two strings are anagrams of each other or not: [Solution in Python](https://gist.github.com/Ch-sriram/90838b4eacc9a1d9ea659fdac612f115)
   7. Compute the modulo of a very large number (given as a string): [Solution in C++](https://gist.github.com/Ch-sriram/f3954867810975bddd5df4b81df81da3)
-  8. Count the occurrences of a substring in a string using Rabin Karp's String Matching Algorithm &mdash; \[Time: O(N) & Space: O(N) where N is length of the larger string\]: [Solution in C++](https://gist.github.com/Ch-sriram/30be96cbf78701f6f506a97f4985c935) & [Solution in Python](https://gist.github.com/Ch-sriram/2096e9e77277775c9afba4d75ee5ce14)
+  8. Count the occurrences of a substring in a string using Rabin Karp's String Matching Algorithm `rolling-hash, double-hash` &mdash; \[Time: O(N) & Space: O(N) where N is length of the larger string\]: [Solution in C++](https://gist.github.com/Ch-sriram/30be96cbf78701f6f506a97f4985c935) & [Solution in Python](https://gist.github.com/Ch-sriram/2096e9e77277775c9afba4d75ee5ce14)
 
 - **Dynamic Programming**
   1. Largest Sum in a Contiguous Subarray (`Kadane's Algorithm`) [Time: O(N) & Space: O(1)]: [Solution in C++](https://gist.github.com/Ch-sriram/17c6ba7685c58285d9ea760ecd10c713) & [Solution in Python](https://gist.github.com/Ch-sriram/cf45f5382f639b650e0b30ff50fb9eb0)
