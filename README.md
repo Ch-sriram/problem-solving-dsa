@@ -70,6 +70,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   1. Two Sum \[Leetcode\]: [Solution in C++](https://gist.github.com/Ch-sriram/ce2e2a2812084b86f4c611df741bd740)
   2. Count distinct pairs with difference k, where (A[i]-A[j] = k) and (i != j): [Solution in C++](https://gist.github.com/Ch-sriram/444657575747b39e983afea7f541d45d)
   3. Triplet Sum in Array: [Accepted Solution in C++ &mdash; Time: O(N<sup>2</sup>) & Space: O(N)](https://gist.github.com/Ch-sriram/2f9a44494821da9536b3011865555e91) & [Unaccepted Solution in C++ &mdash; Time: O(2N + N<sup>2</sup>) & Space: O(N)](https://gist.github.com/Ch-sriram/6e79f659fb6c3cded04048796b05dee3)
+  4. First repeated character in the given string \[Time: O(N) & Space: O(26) for `HashSet`\]: [Solution in C++ for relative version](https://gist.github.com/Ch-sriram/aa738fed2222753e3e875e8f73ef51dc) & [Solution in C++ for absolute version](https://gist.github.com/Ch-sriram/caf9dc0f8e15f77c5874f6cd1ad10187)
+  5. Count Distinct Elements in a Window of size K \[`sliding-window`\] [Time: O(N) & Space: O(N)]: [Solution in C++](https://gist.github.com/Ch-sriram/f6e6f2bfe0b87fd8ae4338d393d31fbe)
 
 - **Searching**
   1. Searching for a number in a list - `Linear Search` \[O(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/696ccba97e4b4759924001ee6f52032c)
@@ -107,6 +109,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   2. Sub-array with given sum (`prefix-sum`, `sliding window`) [Amortized Time: O(N) & Space: O(N+1) for prefix-sum array]: [Solution in C++](https://gist.github.com/Ch-sriram/c463b78d7f22b651c982dab3c36e575c)
   3. Sort the substring (`string manipulation`, `counting sort`) [Time: O(N) & Space: O(26)]: [Solution in C++](https://gist.github.com/Ch-sriram/f074e7a5b5000c16a6cf4e7465f889d8/edit)
   4. Reverse words in a given string - `Tokenizing String`: [Solution in C++](https://gist.github.com/Ch-sriram/a89ed9ce22471fb2e3ed6ab944a897ab)
+  5. Find the number of words, vowels & consonants in the given string \[Time: O(N) & Space: O(1)\]: [Solution in C++](https://gist.github.com/Ch-sriram/e9e17cea3eae611cbf4ab1d211842596) & [Solution in Python](https://gist.github.com/Ch-sriram/8db991ac05d835f6d856136d8b707b45)
 
 - **Dynamic Programming**
   1. Largest Sum in a Contiguous Subarray (`Kadane's Algorithm`) [Time: O(N) & Space: O(1)]: [Solution in C++](https://gist.github.com/Ch-sriram/17c6ba7685c58285d9ea760ecd10c713) & [Solution in Python](https://gist.github.com/Ch-sriram/cf45f5382f639b650e0b30ff50fb9eb0)
