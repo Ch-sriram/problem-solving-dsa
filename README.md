@@ -37,7 +37,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   11. Given an array of unique integer elements, print all the subsets of the given array in lexicographical order \[O(2<sup>N</sup>)\] :[Solution in C++](https://gist.github.com/Ch-sriram/133e55e269420125a5d2c99aee089143)
 
 - **Math**
-  1. Given an integer N, find the number of trailing zeroes in N! \["N factorial"\]: [Solution in C++](https://gist.github.com/Ch-sriram/398355f7ab6ee6ef52c49cab554365ef)
+  1. Given an integer N, find the number of trailing zeroes in N! \["N factorial"\]: [Solution in C++ (v1)](https://gist.github.com/Ch-sriram/398355f7ab6ee6ef52c49cab554365ef) & [Solution in C++ (v2)](https://gist.github.com/Ch-sriram/31406683b78f2aec73dea4c975c01be4)
   2. **[Quadratic Equation Roots](https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1/)** &mdash; Given a quadratic equation in the form <code>ax<sup>2</sup> + bx + c</code>. Find its roots: [Solution in C++](https://gist.github.com/Ch-sriram/86de80403ac416cbfa4d57232540f092)
   3. **[Digits in Factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/)** &mdash; Given an integer N, find the number of digits in N!: [Solution in C++](https://gist.github.com/Ch-sriram/f71ab036e9141da481e6c442eb58b17f)
   4. Given two integers A and B, find their GCD & LCM: [Solution in C++](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6)
