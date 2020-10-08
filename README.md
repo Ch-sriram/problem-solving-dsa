@@ -38,10 +38,11 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 
 - **Math**
   1. Given an integer N, find the number of trailing zeroes in N! \["N factorial"\]: [Solution in C++](https://gist.github.com/Ch-sriram/398355f7ab6ee6ef52c49cab554365ef)
-  2. Given two integers A and B, find their GCD & LCM: [Solution in C++](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6) 
-  3. Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number: [Solution in C++](https://gist.github.com/Ch-sriram/ef37fc6877a6042f5c099edd27af5df2)
-  4. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
-  5. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
+  2. **[Quadratic Equation Roots](https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1/)** &mdash; Given a quadratic equation in the form <code>ax<sup>2</sup> + bx + c</code>. Find its roots: [Solution in C++](https://gist.github.com/Ch-sriram/86de80403ac416cbfa4d57232540f092)
+  3. Given two integers A and B, find their GCD & LCM: [Solution in C++](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6)
+  4. Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number: [Solution in C++](https://gist.github.com/Ch-sriram/ef37fc6877a6042f5c099edd27af5df2)
+  5. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
+  6. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
 
 - **Recursion**
   1. Sum of N natural numbers: [Solution in C++](https://gist.github.com/Ch-sriram/ead1c0b832960905fba68998a3449563)
@@ -65,6 +66,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   11. Inversion Count of an Array O(N * log(N)): [Solution in C++](https://gist.github.com/Ch-sriram/9a66f3ca68ad5ad1ccb8da2e6cfd9174)
   12. Sort an array of 0s, 1s and 2s \[`Count Sort`\]: [Solution in C++](https://gist.github.com/Ch-sriram/cb1e7aad2a50e46744498153e3f5281d)
   13. Sort elements by frequency (a.k.a Frequency Sort): [Solution in C++](https://gist.github.com/Ch-sriram/836d9a0519c5be44e3f20b9cefba084a)
+  14. HACKEREARTH - Micro and Array Update [Time: O(N) where N is the number of inputs & Space: O(1)]: [Solution in C++](https://gist.github.com/Ch-sriram/44888be27b1a4c6be40a37ecf0de2c06)
 
 - **Hashing**
   1. Two Sum \[Leetcode\]: [Solution in C++](https://gist.github.com/Ch-sriram/ce2e2a2812084b86f4c611df741bd740)
@@ -87,7 +89,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   1. Save Konoha (CodeChef: SAVKONO) \[O(N * log(N))\] \[Uses Max Heap\]: [Solution in C++](https://gist.github.com/Ch-sriram/ec5a41b051354ce7e17a8807f85a8a4d)
 
 - **Stacks**
-  1. Parenthesis Checker [Time: O(N) for running through the string; Space: O(N) for stack] **(ZESSTA 3<sup>rd</sup> round Question 2)**: [Solution in C++](https://gist.github.com/Ch-sriram/c062888444948f01cd4e00ae256b7106) & [Solution in JavaScript](https://gist.github.com/Ch-sriram/ff327fa79d7b103434bb5b1ba6702d93)
+  1. HACKERRANK - Super Reduced String [Time: O(N) where N is the length of the given string & Space: O(N) for stack]: [Solution in C++](https://gist.github.com/Ch-sriram/9c868535a16239db5e0c3636a91f1872)
+  2. Parenthesis Checker [Time: O(N) for running through the string; Space: O(N) for stack] **(ZESSTA 3<sup>rd</sup> round Question 2)**: [Solution in C++](https://gist.github.com/Ch-sriram/c062888444948f01cd4e00ae256b7106) & [Solution in JavaScript](https://gist.github.com/Ch-sriram/ff327fa79d7b103434bb5b1ba6702d93)
 
 - **Linked List**
   1. Detect Loop in a Linked List: [Solution in C++](https://gist.github.com/Ch-sriram/dc5ccfaa0eedcc65410bcba03a2ddf96)
@@ -112,7 +115,9 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   5. Find the number of words, vowels & consonants in the given string \[Time: O(N) & Space: O(1)\]: [Solution in C++](https://gist.github.com/Ch-sriram/e9e17cea3eae611cbf4ab1d211842596) & [Solution in Python](https://gist.github.com/Ch-sriram/8db991ac05d835f6d856136d8b707b45)
   6. Check whether given two strings are anagrams of each other or not: [Solution in Python](https://gist.github.com/Ch-sriram/90838b4eacc9a1d9ea659fdac612f115)
   7. Compute the modulo of a very large number (given as a string): [Solution in C++](https://gist.github.com/Ch-sriram/f3954867810975bddd5df4b81df81da3)
-  8. Count the occurrences of a substring in a string using Rabin Karp's String Matching Algorithm `rolling-hash, double-hash` &mdash; \[Time: O(N) & Space: O(N) where N is length of the larger string\]: [Solution in C++](https://gist.github.com/Ch-sriram/30be96cbf78701f6f506a97f4985c935) & [Solution in Python](https://gist.github.com/Ch-sriram/2096e9e77277775c9afba4d75ee5ce14)
+  8. HACKEREARTH - Bracket Sequences - (`prefix-sum`, `hashing`) [Time: O(N) & Space: O(N) for HashMap]: [Solution in C++](https://gist.github.com/Ch-sriram/4cf5ffd17122c3cbb6c5d1285db84363)
+  9. Count the occurrences of a substring in a string using Rabin Karp's String Matching Algorithm `rolling-hash, double-hash` &mdash; \[Time: O(N) & Space: O(N) where N is length of the larger string\]: [Solution in C++](https://gist.github.com/Ch-sriram/30be96cbf78701f6f506a97f4985c935) & [Solution in Python](https://gist.github.com/Ch-sriram/2096e9e77277775c9afba4d75ee5ce14)
+  10. [NAJPF - Pattern Find `SPOJ`](https://www.spoj.com/problems/NAJPF/): [Accepted Solution in C++ &mdash; Time: O(M+N) where N: text length](https://gist.github.com/Ch-sriram/9b62ebe28b5ca56b4d2a794010674669)
 
 - **Dynamic Programming**
   1. Largest Sum in a Contiguous Subarray (`Kadane's Algorithm`) [Time: O(N) & Space: O(1)]: [Solution in C++](https://gist.github.com/Ch-sriram/17c6ba7685c58285d9ea760ecd10c713) & [Solution in Python](https://gist.github.com/Ch-sriram/cf45f5382f639b650e0b30ff50fb9eb0)
