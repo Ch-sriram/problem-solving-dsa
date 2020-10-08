@@ -39,10 +39,11 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 - **Math**
   1. Given an integer N, find the number of trailing zeroes in N! \["N factorial"\]: [Solution in C++](https://gist.github.com/Ch-sriram/398355f7ab6ee6ef52c49cab554365ef)
   2. **[Quadratic Equation Roots](https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1/)** &mdash; Given a quadratic equation in the form <code>ax<sup>2</sup> + bx + c</code>. Find its roots: [Solution in C++](https://gist.github.com/Ch-sriram/86de80403ac416cbfa4d57232540f092)
-  3. Given two integers A and B, find their GCD & LCM: [Solution in C++](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6)
-  4. Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number: [Solution in C++](https://gist.github.com/Ch-sriram/ef37fc6877a6042f5c099edd27af5df2)
-  5. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
-  6. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
+  3. **[Digits in Factorial](https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/)** &mdash; Given an integer N, find the number of digits in N!: [Solution in C++](https://gist.github.com/Ch-sriram/f71ab036e9141da481e6c442eb58b17f)
+  4. Given two integers A and B, find their GCD & LCM: [Solution in C++](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6)
+  5. Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number: [Solution in C++](https://gist.github.com/Ch-sriram/ef37fc6877a6042f5c099edd27af5df2)
+  6. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
+  7. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
 
 - **Recursion**
   1. Sum of N natural numbers: [Solution in C++](https://gist.github.com/Ch-sriram/ead1c0b832960905fba68998a3449563)
