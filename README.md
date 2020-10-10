@@ -47,6 +47,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   8. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
   9. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
   10. **[Largest Prime Factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor2601/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/d463179e970b09aaec69de9734397d42)
+  11. **[Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/f712db00ceec10610e0616450dd64599)
 
 - **Recursion**
   1. Sum of N natural numbers: [Solution in C++](https://gist.github.com/Ch-sriram/ead1c0b832960905fba68998a3449563)
