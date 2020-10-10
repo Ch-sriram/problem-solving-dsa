@@ -21,7 +21,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   - [Extended Euclid's Algorithm to find Inverse Modulo](https://www.youtube.com/watch?v=hB34-GSDT3k)
   - [List of Prime Numbers up to 1,000,000,000,000](http://compoasso.free.fr/primelistweb/page/prime/liste_online_en.php)
 
-## Table of Contents
+## Contents
 
 - **Bit Manipulation**
   1. Given an integer N, find 2<sup>N</sup>: [Solution in C++](https://gist.github.com/Ch-sriram/2812981bba250d52e75d34d4db50e294)
