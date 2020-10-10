@@ -43,8 +43,9 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   4. **[Given two integers A and B, find their GCD & LCM](https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1)**: [Solution in C++ (v1)](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6) & [Solution in C++ (v2)](https://gist.github.com/Ch-sriram/33b957eaeca3462089077e0d05dbe1e8)
   5. Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number: [Solution in C++](https://gist.github.com/Ch-sriram/ef37fc6877a6042f5c099edd27af5df2)
   6. **[Check whether a given N is Prime or NOT](https://practice.geeksforgeeks.org/problems/prime-number2314/1)**: [Solution in C++ (v1)](https://gist.github.com/Ch-sriram/a07d129baed9df55d410533525f273e2) & [Solution in C++ (v2)](https://gist.github.com/Ch-sriram/f710019f386bbd13d44653bf15aab350)
-  7. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
-  8. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
+  7. **[Exactly 3 Divisors](https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/7819ba5bd160ccbf0c0c165cdbad3d71)
+  8. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
+  9. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
 
 - **Recursion**
   1. Sum of N natural numbers: [Solution in C++](https://gist.github.com/Ch-sriram/ead1c0b832960905fba68998a3449563)
