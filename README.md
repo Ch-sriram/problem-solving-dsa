@@ -37,9 +37,9 @@ In each section, the list of problems (along with their solutions) are ordered i
   8. Given an integer N, find its binary representation: [Solution in C++](https://gist.github.com/Ch-sriram/930cd33f5ab4b6e83bbdb17a0a546ca0)
   9. Given two integers A & B, find the number of bits that need to be flipped in B to convert it to A: [Solution in C++](https://gist.github.com/Ch-sriram/2ec6bd3a3b9df442ce53ae260304f73e)
   10. Given an unsigned 32-bit integer N, reverse the bits in the binary representation of the integer, and print the new integer formed: [Solution in C++](https://gist.github.com/Ch-sriram/4f8b4e1517d37fb71d26d71ece1b190a)
-  10. Given an integer N, swap the adjacent bits in the binary representation of the integer, and print the new number formed after swapping: [Solution in C++](https://gist.github.com/Ch-sriram/db50671bc159a3724d8b8318a58ab226)
-  11. Given integers A & N, compute A<sup>N</sup>: [Naive Solution in C++: O(N)](https://gist.github.com/Ch-sriram/5359bea35cce5a2d1265547a59ccb81c) & [Optimal Solution in C++ (fast-exponentiation): O(log N)](https://gist.github.com/Ch-sriram/0678934cc6bd8747f95d5e32ba50b4cf)
-  12. Given an array of unique integer elements, print all the subsets of the given array in lexicographical order \[O(2<sup>N</sup>)\] :[Solution in C++](https://gist.github.com/Ch-sriram/133e55e269420125a5d2c99aee089143)
+  11. Given an integer N, swap the adjacent bits in the binary representation of the integer, and print the new number formed after swapping: [Solution in C++](https://gist.github.com/Ch-sriram/db50671bc159a3724d8b8318a58ab226)
+  12. Given integers A & N, compute A<sup>N</sup>: [Naive Solution in C++: O(N)](https://gist.github.com/Ch-sriram/5359bea35cce5a2d1265547a59ccb81c) & [Optimal Solution in C++ (fast-exponentiation): O(log N)](https://gist.github.com/Ch-sriram/0678934cc6bd8747f95d5e32ba50b4cf)
+  13. Given an array of unique integer elements, print all the subsets of the given array in lexicographical order \[O(2<sup>N</sup>)\] :[Solution in C++](https://gist.github.com/Ch-sriram/133e55e269420125a5d2c99aee089143)
 
 ### Math ➕➖✖➗
 
@@ -49,15 +49,16 @@ In each section, the list of problems (along with their solutions) are ordered i
 4. **[Given two integers A and B, find their GCD & LCM](https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1)**: [Solution in C++ (v1)](https://gist.github.com/Ch-sriram/5456cca57a36d43a9d7eecc9c87844d6) & [Solution in C++ (v2)](https://gist.github.com/Ch-sriram/33b957eaeca3462089077e0d05dbe1e8)
 5. **[GCD of Array](https://practice.geeksforgeeks.org/problems/gcd-of-array0614/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/9c4d2ee6dbef7e9c3c664d9af38fb5e8)
 6. **[Addition Under Modulo](https://practice.geeksforgeeks.org/problems/addition-under-modulo/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/e5704eef5171934a41ac2a445f2f8df1)
-7. Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number: [Solution in C++](https://gist.github.com/Ch-sriram/ef37fc6877a6042f5c099edd27af5df2)
-8. **[Check whether a given N is Prime or NOT](https://practice.geeksforgeeks.org/problems/prime-number2314/1)**: [Solution in C++ (v1)](https://gist.github.com/Ch-sriram/a07d129baed9df55d410533525f273e2) & [Solution in C++ (v2)](https://gist.github.com/Ch-sriram/f710019f386bbd13d44653bf15aab350)
-9. **[Exactly 3 Divisors](https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/7819ba5bd160ccbf0c0c165cdbad3d71)
-10. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
-11. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
-12. **[Largest Prime Factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor2601/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/d463179e970b09aaec69de9734397d42)
-13. **[Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/f712db00ceec10610e0616450dd64599)
-14. **[GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/e0f4cf2032e62d8cdb19e18eba1d309b)
-15. **[Multiplicative Modular Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1/)**: [Naive Solution in C++](https://gist.github.com/Ch-sriram/1a3268f15bb03c348abf610f7b186312)
+7. **[Series AP](https://practice.geeksforgeeks.org/problems/series-ap5310/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/f2a855b6ed16229f07599f95bf30bb8c)
+8. Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number: [Solution in C++](https://gist.github.com/Ch-sriram/ef37fc6877a6042f5c099edd27af5df2)
+9. **[Check whether a given N is Prime or NOT](https://practice.geeksforgeeks.org/problems/prime-number2314/1)**: [Solution in C++ (v1)](https://gist.github.com/Ch-sriram/a07d129baed9df55d410533525f273e2) & [Solution in C++ (v2)](https://gist.github.com/Ch-sriram/f710019f386bbd13d44653bf15aab350)
+10. **[Exactly 3 Divisors](https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/7819ba5bd160ccbf0c0c165cdbad3d71)
+11. Count Primes in Range \[O(N) for sieve of Eratosthenes + O(N) for prefix sum + O(Q * 1) for finding count of primes in given range for each query\] \[Total Time Complexity = O(2N + Q)\]: [Solution in C++](https://gist.github.com/Ch-sriram/0e68dd6941c2496b9aff3e466b88f54c) & [Solution in Java](https://gist.github.com/Ch-sriram/eb998b64e420b1c3e89bbf3af574cd38)
+12. Prime Generator (SPOJ) \[O(R * X), where R = Max Range of 10^5 & X = sqrt(N)\]: [Solution in C++](https://gist.github.com/Ch-sriram/59f96b46335d5041fe4cb413d6906227)
+13. **[Largest Prime Factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor2601/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/d463179e970b09aaec69de9734397d42)
+14. **[Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/f712db00ceec10610e0616450dd64599)
+15. **[GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/e0f4cf2032e62d8cdb19e18eba1d309b)
+16. **[Multiplicative Modular Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1/)**: [Naive Solution in C++](https://gist.github.com/Ch-sriram/1a3268f15bb03c348abf610f7b186312)
 
 ### Recursion 🔁🌪
 
