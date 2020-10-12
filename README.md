@@ -31,7 +31,7 @@ In each section, the list of problems (along with their solutions) are ordered i
   2. **[Rightmost Different Bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/0d3a9663cf4534e7b5a67cee6d7fb0a1)
   3. Given an integer N, find 2<sup>N</sup>: [Solution in C++](https://gist.github.com/Ch-sriram/2812981bba250d52e75d34d4db50e294)
   4. Given X<sup>th</sup> & Y<sup>th</sup> bit positions, WAF to create a number where X<sup>th</sup> & Y<sup>th</sup> bit are set: [Solution in C++](https://gist.github.com/Ch-sriram/9171a1a9dad728d37eb95f3f185dfa4f)
-  5. Given an integer N & a bit position - i, WAF to check whether the i<sup>th</sup> bit is set in N or not: [Solution in C++](https://gist.github.com/Ch-sriram/fef3d0a6274d20f6705495b7cf5b22e4)
+  5. **[Check K-th bit is Set or Not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1/)**: [Solution in C++ (v1)](https://gist.github.com/Ch-sriram/fef3d0a6274d20f6705495b7cf5b22e4) & [Solution in C++ (v2)](https://gist.github.com/Ch-sriram/7cfe18806fab39c776f53780eaf3c130)
   6. Given an integer - N, count the number of set bits in N: [Solution-1 in C++](https://gist.github.com/Ch-sriram/212f8185414fcb71278c6028128fcb2a) & [Solution-2 in C++](https://gist.github.com/Ch-sriram/68f0b06e41a6843fd1f6e81b1f4b1804)
   7. Given an integer N, check if it is a power of 2: [Solution in C++](https://gist.github.com/Ch-sriram/62c046a0affda6907f0a06c8856ec74d)
   8. Given an integer N, find its binary representation: [Solution in C++](https://gist.github.com/Ch-sriram/930cd33f5ab4b6e83bbdb17a0a546ca0)
