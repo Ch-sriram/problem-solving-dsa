@@ -54,6 +54,7 @@ In each section, the list of problems (along with their solutions) are ordered i
 11. **[Largest Prime Factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor2601/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/d463179e970b09aaec69de9734397d42)
 12. **[Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/f712db00ceec10610e0616450dd64599)
 13. **[GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/e0f4cf2032e62d8cdb19e18eba1d309b)
+14. **[Multiplicative Modular Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1/)**: [Naive Solution in C++](https://gist.github.com/Ch-sriram/1a3268f15bb03c348abf610f7b186312)
 
 ### Recursion 🔁🌪
 
