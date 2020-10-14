@@ -59,7 +59,8 @@ In each section, the list of problems (along with their solutions) are ordered i
 14. **[Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1)**: [Solution in C++](https://gist.github.com/Ch-sriram/f712db00ceec10610e0616450dd64599)
 15. **[GP Term](https://practice.geeksforgeeks.org/problems/gp-term/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/e0f4cf2032e62d8cdb19e18eba1d309b)
 16. **[Multiplicative Modular Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1/)**: [Naive Solution in C++](https://gist.github.com/Ch-sriram/1a3268f15bb03c348abf610f7b186312)
-17. **[Product of Primes](https://practice.geeksforgeeks.org/problems/product-of-primes/0)**: [Solution in C++ (Bitmask Sieve)](https://gist.github.com/Ch-sriram/c8ae5d07a391d1cbcf5fc672cd29a810) & [Solution in C++ (Vector Sieve)](https://gist.github.com/Ch-sriram/9e7f8cb6a958c174562ad70ecefef915)
+17. **[Prime Generator (SPOJ: PRIME1)](https://www.spoj.com/problems/PRIME1/)** (Using Segmented Sieve): [Solution in C++](https://gist.github.com/Ch-sriram/25d002217bb56a83ea1bce16cfb20bbe)
+18. **[Product of Primes](https://practice.geeksforgeeks.org/problems/product-of-primes/0)**: [Solution in C++ (Bitmask Sieve)](https://gist.github.com/Ch-sriram/c8ae5d07a391d1cbcf5fc672cd29a810) & [Solution in C++ (Vector Sieve)](https://gist.github.com/Ch-sriram/9e7f8cb6a958c174562ad70ecefef915)
 
 ### Recursion 🔁🌪
 
