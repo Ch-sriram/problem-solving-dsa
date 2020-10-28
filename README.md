@@ -39,9 +39,10 @@ In each section, the list of problems (along with their solutions) are ordered i
   10. Given two integers A & B, find the number of bits that need to be flipped in B to convert it to A: [Solution in C++](https://gist.github.com/Ch-sriram/2ec6bd3a3b9df442ce53ae260304f73e)
   11. Given an unsigned 32-bit integer N, reverse the bits in the binary representation of the integer, and print the new integer formed: [Solution in C++](https://gist.github.com/Ch-sriram/4f8b4e1517d37fb71d26d71ece1b190a)
   12. Given an integer N, swap the adjacent bits in the binary representation of the integer, and print the new number formed after swapping: [Solution in C++](https://gist.github.com/Ch-sriram/db50671bc159a3724d8b8318a58ab226)
-  13. Given integers A & N, compute A<sup>N</sup>: [Naive Solution in C++: O(N)](https://gist.github.com/Ch-sriram/5359bea35cce5a2d1265547a59ccb81c) & [Optimal Solution in C++ (fast-exponentiation): O(log N)](https://gist.github.com/Ch-sriram/0678934cc6bd8747f95d5e32ba50b4cf)
-  14. Given an array of unique integer elements, print all the subsets of the given array in lexicographical order \[O(2<sup>N</sup>)\] :[Solution in C++](https://gist.github.com/Ch-sriram/133e55e269420125a5d2c99aee089143)
-  15. **Given N, [Count Total Set Bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1/) from [1, N]**: [Solution in C++ [logarithmic time]](https://gist.github.com/Ch-sriram/7017e8055875ab7212dc11926bdf97e3)
+  13. **[Two Numbers w. Odd Occurrences](https://practice.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences/0)**: [Solution in C++](https://gist.github.com/Ch-sriram/de54fa5087f2aaa2786835580aea231f)
+  14. Given integers A & N, compute A<sup>N</sup>: [Naive Solution in C++: O(N)](https://gist.github.com/Ch-sriram/5359bea35cce5a2d1265547a59ccb81c) & [Optimal Solution in C++ (fast-exponentiation): O(log N)](https://gist.github.com/Ch-sriram/0678934cc6bd8747f95d5e32ba50b4cf)
+  15. Given an array of unique integer elements, print all the subsets of the given array in lexicographical order \[O(2<sup>N</sup>)\] :[Solution in C++](https://gist.github.com/Ch-sriram/133e55e269420125a5d2c99aee089143)
+  16. **Given N, [Count Total Set Bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1/) from [1, N]**: [Solution in C++ [logarithmic time]](https://gist.github.com/Ch-sriram/7017e8055875ab7212dc11926bdf97e3)
 
 ### Math ➕➖✖➗
 
