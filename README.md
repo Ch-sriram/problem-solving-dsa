@@ -23,7 +23,9 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 
 ## Contents ©
 
-In each section, the list of problems (along with their solutions) are ordered in terms of their difficulty level from top to bottom.
+- In each section, the list of problems (along with their solutions) are ordered in terms of their difficulty level from top to bottom.
+- Number `+`'s signify the importance of the data-structure/algorithm in question. `++` < `+++` < `++++` < `+++++` < `++++++` in terms of importance.
+- In the commits, the one with the difficulty and a `+` sign are worth reading those problems introduce a new concept altogether. Example: We've the following commit: [Two Numbers with Odd Occurrences (Easy+)](https://github.com/Ch-sriram/problem-solving-dsa/commit/123f226d6549b5a8677d95af651ffe4fe50e8d71) &mdash; we can see that it has `Easy+`, which means that problem difficulty is easy, but it is tricky to understand, and also, there's a concept (or concept refresher) related to the particular problem.
 
 ### Bit Manipulation 0️⃣1️⃣
 
