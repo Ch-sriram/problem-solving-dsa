@@ -47,7 +47,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
   16. Given integers A & N, compute A<sup>N</sup>: [Naive Solution in C++: O(N)](https://gist.github.com/Ch-sriram/5359bea35cce5a2d1265547a59ccb81c) & [Optimal Solution in C++ (fast-exponentiation): O(log N)](https://gist.github.com/Ch-sriram/0678934cc6bd8747f95d5e32ba50b4cf) `$$`
   17. Given an array of unique integer elements, print all the subsets of the given array in lexicographical order \[O(2<sup>N</sup>)\] :[Solution in C++](https://gist.github.com/Ch-sriram/133e55e269420125a5d2c99aee089143) `$$`
   18. **Given N, [Count Total Set Bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1/) from [1, N]**: [Solution in C++ [logarithmic time]](https://gist.github.com/Ch-sriram/7017e8055875ab7212dc11926bdf97e3) `$$$`
-  19. **[Maximum Subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1/)** &mdash; return an integer denoting the maximum XOR value in the given positive integer array: [Solution in C++](https://gist.github.com/Ch-sriram/5e897a97f4d4ac6e6571ab7a5d989707) `$$$$`
+  19. **[Maximum XOR in Array](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1/)** &mdash; return an integer denoting the maximum XOR value in the given positive integer array: [Solution in C++](https://gist.github.com/Ch-sriram/5e897a97f4d4ac6e6571ab7a5d989707) `$$$$$`
+  20. **[Maximum XOR Subset](https://practice.geeksforgeeks.org/problems/maximum-xor-subset0715/1/)** &mdash; find the maximum XOR value of the elements from all the possible subsets of given positive integer array arr[]: [Solution in C++](https://gist.github.com/Ch-sriram/4695c33b627087bf05326128c7080eac) `$$$$$`
 
 ### Math ➕➖✖➗
 
