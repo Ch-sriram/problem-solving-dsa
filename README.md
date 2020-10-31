@@ -147,7 +147,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 
 1. **[Print Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/6c1ba7f81fb2d4ae09bddcab85e5336a) `$$`
 2. **[BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/01729fc2809a1e1b8cb3a869463896bb) `$$$`
-3. Count Number of Connected Components: [Solution in C++ Using BFS](https://gist.github.com/Ch-sriram/093f73f5ea96560ef9ce7a741ca0a1b9) & [Solution in C++ Using DFS](https://gist.github.com/Ch-sriram/82f575fef54ebf1c4b5c1ab019f59ebe) `$$$`
+3. **[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/681a00d81dab5153fd0b24ee95f9a7a3) `$$$`
+4. **Count Number of Connected Components**: [Solution in C++ Using BFS](https://gist.github.com/Ch-sriram/093f73f5ea96560ef9ce7a741ca0a1b9) & [Solution in C++ Using DFS](https://gist.github.com/Ch-sriram/82f575fef54ebf1c4b5c1ab019f59ebe) `$$$`
 
 ### Mixed Bag & Strings 🔠🔡🎒👜
 
