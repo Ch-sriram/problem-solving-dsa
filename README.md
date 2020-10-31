@@ -150,7 +150,7 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 3. **[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/681a00d81dab5153fd0b24ee95f9a7a3) `$$$`
 4. Check if a Path Exists between `(u, v)` in a Graph: [Solution in C++](https://gist.github.com/Ch-sriram/e9540d20912ba840a37510e7820d69dc) `$$$`
 5. **Count Number of Connected Components**: [Solution in C++ Using BFS](https://gist.github.com/Ch-sriram/093f73f5ea96560ef9ce7a741ca0a1b9) & [Solution in C++ Using DFS](https://gist.github.com/Ch-sriram/82f575fef54ebf1c4b5c1ab019f59ebe) `$$$`
-6. **[Detect Cycle in an Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/)**: [Solution in C++ Using DFS](https://gist.github.com/Ch-sriram/42d46bc987002d2e4cb13d8be1eedba7) `$$$$`
+6. **[Detect Cycle in an Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/)**: [Solution in C++ Using DFS](https://gist.github.com/Ch-sriram/42d46bc987002d2e4cb13d8be1eedba7) `$$$$` (**GYTWrkz Solutions Interview Question**)
 7. **Check if Graph is Forest or Not** &mdash; Uses Cycle Detection Algo in an Undirected Graph: [Solution in C++ Using DFS](https://gist.github.com/Ch-sriram/137bed9f28b375b4af26ada9838dc221) `$$$$`
 
 ### Mixed Bag & Strings 🔠🔡🎒👜
