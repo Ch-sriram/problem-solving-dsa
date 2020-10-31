@@ -146,7 +146,8 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
 ### Graph Theory 🕸
 
 1. **[Print Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/6c1ba7f81fb2d4ae09bddcab85e5336a) `$$`
-2. Program to Count Number of Connected Components: [Solution in C++](https://gist.github.com/Ch-sriram/093f73f5ea96560ef9ce7a741ca0a1b9) `$$$`
+2. **[BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/01729fc2809a1e1b8cb3a869463896bb) `$$$`
+3. Program to Count Number of Connected Components: [Solution in C++](https://gist.github.com/Ch-sriram/093f73f5ea96560ef9ce7a741ca0a1b9) `$$$`
 
 ### Mixed Bag & Strings 🔠🔡🎒👜
 
