@@ -142,6 +142,10 @@ I like a lot of languages (I'm language agnostic), but I prefer to write code in
    1. O(N*H) &mdash; Unaccepted on GFG: [Solution in C++](https://gist.github.com/Ch-sriram/aa67d6b55c11435626f7b38c542c107d) & [Solution in Java](https://gist.github.com/Ch-sriram/58ae2f8c20c65560aa7737e5a5f4e5f4) `$$$`
    2. O(N) &mdash; Accepted on GFG: [Solution in C++](https://gist.github.com/Ch-sriram/429f27d9428a6dd62563b977ddbfaead) & [Solution in Java](https://gist.github.com/Ch-sriram/f69d1168ad314fc4d2753a114336881e) `$$$`
 
+### Graph Theory 🕸
+
+1. **[Print Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1/)**: [Solution in C++](https://gist.github.com/Ch-sriram/6c1ba7f81fb2d4ae09bddcab85e5336a) `$$`
+
 ### Mixed Bag & Strings 🔠🔡🎒👜
 
 1. Sort a list of items wrt the frequency of each item (ZESSTA 3<sup>rd</sup> round Question 1) &mdash; `Hashing` + `Sorting`: [Solution in JavaScript](https://gist.github.com/Ch-sriram/ec21a892528f3336e1db0ab37b8d0b93) `$$`
